@@ -21,7 +21,12 @@ En este ejercicio práctico, se ha construido un sitio web usando React con Vite
 
 A continuación se muestra un pantallazo del panel administrativo:
 
-![Pantallazo del panel administrativo](./assets/Captura de pantalla 2025-04-25 143417.png)
-![Pantallazo del panel administrativo](./assets/Captura de pantalla 2025-04-25 143344.png)
-![Pantallazo del panel administrativo](./assets/Captura de pantalla 2025-04-25 143355.png)
-![Pantallazo del panel administrativo](./assets/Captura de pantalla 2025-04-25 143407.png)
+<div style="display: flex; justify-content: space-between;">
+  <img src="./public/images/2.png" alt="Pantallazo 1" style="width: 48%;"/>
+  <img src="./public/images/3.png" alt="Pantallazo 2" style="width: 48%;"/>
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="./public/images/4.png" alt="Pantallazo 3" style="width: 48%;"/>
+  <img src="./public/images/5.png" alt="Pantallazo 4" style="width: 48%;"/>
+</div>
