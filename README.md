@@ -1,12 +1,27 @@
-# React + Vite
+# Proyecto: Panel Administrativo con React y Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+En este ejercicio práctico, se ha construido un sitio web usando React con Vite que simula un panel administrativo con navegación moderna. Las características del panel incluyen:
 
-Currently, two official plugins are available:
+## Características:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Barra de navegación**: 
+  - Un logo.
+  - Enlaces a las secciones de:
+    - **Clientes**
+    - **Proveedor**
+    - **Usuarios**
+    - **Logout**
 
-## Expanding the ESLint configuration
+## Tecnologías utilizadas:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React**: Para la construcción del frontend.
+- **Vite**: Como herramienta de construcción y desarrollo.
+- **Bootstrap**: Para el diseño y los componentes visuales.
+## Pantallazo
+
+A continuación se muestra un pantallazo del panel administrativo:
+
+![Pantallazo del panel administrativo](./assets/Captura de pantalla 2025-04-25 143417.png)
+![Pantallazo del panel administrativo](./assets/Captura de pantalla 2025-04-25 143344.png)
+![Pantallazo del panel administrativo](./assets/Captura de pantalla 2025-04-25 143355.png)
+![Pantallazo del panel administrativo](./assets/Captura de pantalla 2025-04-25 143407.png)
